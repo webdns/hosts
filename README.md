@@ -58,4 +58,9 @@ C:\windows\system32\drivers\etc\
 
 172.67.179.88 webdnsapi.eu.org
 
-104.21.96.116  webdnsapi.e
+104.21.96.116  webdnsapi.eu.org
+
+
+
+
+网络上有有很多修改工具，大家可以下载下来试试。还有很多安全软件 也是可以修改的!
